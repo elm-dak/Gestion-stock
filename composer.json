@@ -6,5 +6,12 @@
         "psr-4": {
             "App\\": "model/function.php"
         }
+    },
+    "name": "Gestion stock",
+    "description": "",
+    "type": "library",
+    "require": {
+        "php": "^7.4 || ^8.0",
+        ...
     }
 }
