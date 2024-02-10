@@ -1,12 +1,14 @@
-Système de Gestion des Stocks
+##Système de Gestion des Stocks
+
 Ce projet est un système de gestion des stocks développé en PHP avec intégration MySQL. Il comprend des tests unitaires réalisés avec PHPUnit et une automatisation des workflows avec GitHub Actions.
 
-Fonctionnalités
+###Fonctionnalités
 Gestion des Stocks : Permet de suivre les articles en stock, leurs catégories, quantités, prix, etc.
 Base de données MySQL : Utilise une base de données MySQL pour le stockage et la récupération des données.
 Tests PHPUnit : Inclut des tests unitaires écrits avec PHPUnit pour garantir la qualité et la fiabilité du code.
 GitHub Actions : Implémente des actions GitHub pour l'automatisation des workflows, y compris les tests et le déploiement.
-Prérequis
+
+###Prérequis
 PHP (version 7.4 ou 8.0)
 Base de données MySQL
 PHPUnit (version 10.5)
