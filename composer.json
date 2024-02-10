@@ -1,5 +1,5 @@
 {
-     "name": "Gestion",
+     "name": "acme/awesome-package",
     "description": "A ",
     "type": "library",
     "license": "proprietary",
